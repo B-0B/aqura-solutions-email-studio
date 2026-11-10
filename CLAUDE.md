@@ -14,3 +14,5 @@ This project is for planning and writing email campaigns for a small business.
 - Write in plain English.
 - Never send email to real people.
 - Ask before deleting anything.
+
+@brand/voice.md
