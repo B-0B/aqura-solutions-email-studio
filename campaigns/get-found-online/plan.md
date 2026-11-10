@@ -76,7 +76,7 @@ Businesses we've already worked with. They trust us but may not know about servi
 
 ## 5. Content Calendar
 
-Each segment gets one email per week, with a shared bonus email in Week 3. That's 13 sends total across 4 weeks.
+Each segment gets one email per week. That's 12 sends total across 4 weeks.
 
 | Week | Date (Mon) | Email | Segment | Subject line direction | CTA |
 |------|-----------|-------|---------|----------------------|-----|
@@ -86,18 +86,16 @@ Each segment gets one email per week, with a shared bonus email in Week 3. That'
 | 2 | Dec 14 | E2: The value email | Startups | What we'd look at in your first 30 minutes with us | Book a free call |
 | 2 | Dec 14 | E2: The value email | Established | Three things we check on every site we rebuild | Book a free call |
 | 2 | Dec 14 | E2: The value email | Existing clients | A quick look at what's new on our side | Book a free call |
-| 3 | Dec 21 | E3: Social proof | Startups | How [a recent startup client] went from idea to live in X weeks | Book a free call |
-| 3 | Dec 21 | E3: Social proof | Established | What changed when [a client] rebuilt their site with us | Book a free call |
-| 3 | Dec 21 | E3: Social proof | Existing clients | What other clients are building with us right now | Book a free call |
-| 3 | Dec 23 | E4: Bonus nudge | All segments | Quick question before the year wraps up | Book a free call |
-| 4 | Dec 28 | E5: Last call | Startups | Still thinking about getting online? Let's talk this week | Book a free call |
-| 4 | Dec 28 | E5: Last call | Established | Start the new year with a site that actually works for you | Book a free call |
-| 4 | Dec 28 | E5: Last call | Existing clients | One more thing before 2027 kicks off | Book a free call |
+| 3 | Dec 21 | E3: How it works | Startups | Here's what happens when you book a free call with us | Book a free call |
+| 3 | Dec 21 | E3: How it works | Established | What we actually cover in a free consultation | Book a free call |
+| 3 | Dec 21 | E3: How it works | Existing clients | A quick look at how our free consultations work | Book a free call |
+| 4 | Dec 28 | E4: Last call | Startups | Still thinking about getting online? Let's talk this week | Book a free call |
+| 4 | Dec 28 | E4: Last call | Established | Start the new year with a site that actually works for you | Book a free call |
+| 4 | Dec 28 | E4: Last call | Existing clients | One more thing before 2027 kicks off | Book a free call |
 
 **Dependencies:**
 - Booking page or calendar link must be live before Dec 7
-- Client examples and proof points need to be gathered by Dec 18 (before Week 3 sends)
-- Dec 23 and Dec 28 sends fall during holidays — keep those emails short and warm
+- Dec 28 sends fall during the holidays — keep those emails short and warm
 
 ---
 
@@ -107,13 +105,12 @@ Each segment gets one email per week, with a shared bonus email in Week 3. That'
 |---|-------|------|-------------|----------|----------|
 | 1 | Segment-specific openers (x3) | Email | Tailored intro email per segment. Sets the tone, introduces the offer. | Must-have | Dec 5 |
 | 2 | Value emails (x3) | Email | Shows what a consultation covers. Gives a taste of our thinking. | Must-have | Dec 12 |
-| 3 | Social proof emails (x3) | Email | Client examples (anonymised if needed). Short and specific. | Must-have | Dec 19 |
-| 4 | Bonus nudge (x1) | Email | Short, warm, end-of-year check-in. One CTA. | Nice-to-have | Dec 21 |
-| 5 | Last call emails (x3) | Email | Final reminder. Friendly, not pushy. "We're here if you're ready." | Must-have | Dec 26 |
-| 6 | Booking page | Landing page | Simple page with a calendar widget to book a 30-min call. | Must-have | Dec 5 |
-| 7 | Confirmation email | Auto-email | Sent after someone books. Confirms the time, sets expectations. | Must-have | Dec 5 |
+| 3 | How-it-works emails (x3) | Email | Walks through what happens on a free consultation call. No client examples needed. | Must-have | Dec 19 |
+| 4 | Last call emails (x3) | Email | Final reminder. Friendly, not pushy. "We're here if you're ready." | Must-have | Dec 26 |
+| 5 | Booking page | Landing page | Simple page with a calendar widget to book a 30-min call. | Must-have | Dec 5 |
+| 6 | Confirmation email | Auto-email | Sent after someone books. Confirms the time, sets expectations. | Must-have | Dec 5 |
 
-**Total: 13 campaign emails + 1 booking page + 1 confirmation email**
+**Total: 12 campaign emails + 1 booking page + 1 confirmation email**
 
 ---
 
@@ -140,9 +137,9 @@ Every Monday, review the previous week's numbers. If a segment is underperformin
 
 | Item | Estimated cost | Notes |
 |------|---------------|-------|
-| Email platform | $0 | Assuming we already have one (e.g., Mailchimp free tier, Brevo, etc.) |
+| Email platform | $0 | Resend (our email service) |
 | Booking tool | $0–$20/mo | Calendly free tier or similar |
-| Time: email writing | ~8 hours | 13 emails, ~30–40 min each |
+| Time: email writing | ~8 hours | 12 emails, ~30–40 min each |
 | Time: setup and scheduling | ~3 hours | List segmentation, scheduling, booking page |
 | Time: weekly monitoring | ~2 hours total | 30 min/week for 4 weeks |
 | **Total** | **~$0–$20 + ~13 hours of work** | |
@@ -166,8 +163,7 @@ Every Monday, review the previous week's numbers. If a segment is underperformin
 3. **By Dec 5:** Write and schedule Week 1 emails (3 emails)
 4. **By Dec 5:** Write and test the booking confirmation email
 5. **By Dec 12:** Write and schedule Week 2 emails (3 emails)
-6. **By Dec 18:** Gather client examples for social proof emails
-7. **By Dec 19:** Write and schedule Week 3 emails (3 + 1 bonus)
-8. **By Dec 26:** Write and schedule Week 4 emails (3 emails)
-9. **Every Monday (Dec 7, 14, 21, 28):** Review metrics, adjust if needed
-10. **Jan 4, 2027:** Final campaign review — total bookings, segment performance, lessons learned
+6. **By Dec 19:** Write and schedule Week 3 emails (3 emails)
+7. **By Dec 26:** Write and schedule Week 4 emails (3 emails)
+8. **Every Monday (Dec 7, 14, 21, 28):** Review metrics, adjust if needed
+9. **Jan 4, 2027:** Final campaign review — total bookings, segment performance, lessons learned
