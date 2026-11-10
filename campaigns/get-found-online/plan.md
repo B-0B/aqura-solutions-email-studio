@@ -150,8 +150,8 @@ Every Monday, review the previous week's numbers. If a segment is underperformin
 
 | Risk | Impact | Mitigation |
 |------|--------|------------|
-| **Holiday timing (Weeks 3–4)** | Lower open rates during Christmas/New Year week. People are away. | Keep Dec 23 and Dec 28 emails short and low-pressure. Front-load the campaign — aim for 25+ bookings by end of Week 2. |
-| **List fatigue** | 500 contacts is a small list. Over-emailing could spike unsubscribes. | Cap at one email per segment per week (plus one bonus). Watch unsubscribe rate closely. If any send exceeds 1.5% unsubs, skip the next scheduled send for that segment. |
+| **Holiday timing (Weeks 3–4)** | Lower open rates during Christmas/New Year week. People are away. | Keep the Dec 21 and Dec 28 emails short and low-pressure. Front-load the campaign — aim for 25+ bookings by end of Week 2. |
+| **List fatigue** | 500 contacts is a small list. Over-emailing could spike unsubscribes. | Cap at one email per segment per week. Watch unsubscribe rate closely. If any send exceeds 1.5% unsubs, skip the next scheduled send for that segment. |
 | **Low booking page conversion** | People click but don't book — friction in the booking flow. | Test the booking page before launch. Keep it to one page, one action. Offer 2–3 time slots per day so there's always something convenient. |
 
 ---
