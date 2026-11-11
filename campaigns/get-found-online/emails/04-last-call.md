@@ -1,13 +1,11 @@
-Subject: One last thing before the new year
-Preview: We still have a few consultation spots open this week if you'd like to chat.
+Subject: A thought before the new year
+Preview: If you've been thinking about your website or app, we'd love to chat.
 
 Hi {{first_name}},
 
-Quick note before the year wraps up — we still have a few consultation spots open this week.
+Quick note before the year wraps up — if you've been thinking about improving your website or app (or finally building one), we'd love to hear what you have in mind. Thirty minutes, no cost, no commitment.
 
-If you've been thinking about improving your website or app (or finally building one), this is a good time to have that conversation. Thirty minutes, no cost, no commitment.
-
-We'd love to start 2027 working on something together.
+We'd love to kick off the new year working on something together.
 
 [Book your free call](https://aqurasolutions.example/get-started)
 

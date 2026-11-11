@@ -29,6 +29,7 @@ We sound like a sharp colleague who genuinely cares about your project — not a
 - Never claim expertise in tech we don't actually use.
 - Never speak for the client or put words in their mouth.
 - Never say we're the "best" or "#1" — let the work speak.
+- Never invent facts, quotes or stories (for example, "people keep asking us…") that we can't back up.
 
 ## How we sign off
 

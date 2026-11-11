@@ -3,7 +3,7 @@ Preview: No prep needed, no commitment — just a conversation about what you're
 
 Hi {{first_name}},
 
-A few people have asked what happens on one of our free consultation calls, so here's the short version:
+Not sure what to expect from a free consultation call? Here's the short version:
 
 **1. Book a time** — Pick a 30-minute slot that works for you. Morning, afternoon, whatever fits your schedule.
 

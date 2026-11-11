@@ -3,7 +3,7 @@ Preview: A free consultation isn't a sales call — here's what we actually talk
 
 Hi {{first_name}},
 
-Last week we mentioned our free consultation calls. Here's what we actually cover in those 30 minutes:
+We mentioned our free consultation calls — here's what we actually cover in those 30 minutes:
 
 **Where you stand now** — We'll look at your current website or app (or talk through your plans if you're starting from scratch) and give you an honest take on what's working and what's not.
 

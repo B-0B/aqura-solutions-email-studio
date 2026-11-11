@@ -7,7 +7,7 @@ We're Aqura Solutions — we build websites and apps that help businesses reach 
 
 If your online presence isn't working as hard as you are, or if you're just getting started and want to do it right, we'd love to chat.
 
-We're offering free 30-minute consultation calls this month. No pitch, no pressure — just a conversation about where you are now and what might help.
+We're offering free 30-minute consultation calls. No pitch, no pressure — just a conversation about where you are now and what might help.
 
 [Book your free call](https://aqurasolutions.example/get-started)
 
