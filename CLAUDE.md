@@ -14,5 +14,6 @@ This project is for planning and writing email campaigns for a small business.
 - Write in plain English.
 - Never send email to real people.
 - Ask before deleting anything.
+- Start every commit message with the course step it belongs to, like "Step 8: Add personalize skill".
 
 @brand/voice.md
