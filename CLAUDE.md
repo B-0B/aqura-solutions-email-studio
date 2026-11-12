@@ -12,7 +12,7 @@ This project is for planning and writing email campaigns for a small business.
 ## Rules
 
 - Write in plain English.
-- Never send email to real people.
+- Never send email to real people. Sending through Resend is allowed only to Resend's test addresses (ending in @resend.dev) and to aliischeema@gmail.com. A guard will enforce this in the next step.
 - Ask before deleting anything.
 - Start every commit message with the course step it belongs to, like "Step 8: Add personalize skill".
 
