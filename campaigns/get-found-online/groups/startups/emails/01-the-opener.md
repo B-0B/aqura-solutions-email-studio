@@ -1,5 +1,5 @@
-Subject: Let's get your business found online
-Preview: We build websites and apps that bring in customers — here's how we can help.
+Subject: No pitch, just honest advice about your site
+Preview: A free 30-minute call to talk through what's working and what could be better.
 
 Hi {{first_name}},
 
