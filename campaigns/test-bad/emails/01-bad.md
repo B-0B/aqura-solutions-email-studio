@@ -4,7 +4,7 @@ Preview: Don't miss out on this limited-time game-changing opportunity to levera
 
 Hey there,
 
-We're the best web agency in the business and we guarantee we'll double your sales within 30 days. No other agency can match our best-in-class, world-class synergy.
+We're the best web agency in the business and we'd love to help your project grow. No other agency can match our best-in-class, world-class synergy.
 
 Don't miss out — this is your **last chance** to act before we close the doors forever!
 
